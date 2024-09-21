@@ -1,0 +1,15 @@
+{
+  "name": "qa-automation-typescript",
+  "version": "1.0.0",
+  "description": "QA Automation with Playwright and TypeScript",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.32.3",
+    "@types/node": "^18.15.11",
+    "dotenv": "^16.0.3",
+    "typescript": "^5.0.4",
+    "@axe-core/playwright": "^4.6.0"
+  }
+}
